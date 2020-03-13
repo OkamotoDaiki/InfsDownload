@@ -14,7 +14,7 @@ Usage
 1. Copy this folder to ../InfsPreprocess/Infs and change name for in the following format.
 ex, Sakurazima_Ontake_Higashikorimoto_20181114_0043_24point2Pa
 2. Input Infrasound data URL to sample.csv of 2 row.
-3. Run as follow if you prosess 1.  
+3. Run as follow if you prosess 2.  
 `$ bash download.sh`
 4. Run as follow because of preprocess row data in raw_data directory.  
 `$ bash preprocessing_one_eruption.sh`

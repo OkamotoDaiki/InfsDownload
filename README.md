@@ -1,7 +1,7 @@
-Download infrasound waveform with webscrayping from 高知工科大学インフラサウンド観測ネットワークシステム webscrayping and how to preprocess raw data
+Download infrasound waveform with webscrayping from 高知工科大学インフラサウンド観測ネットワークシステム
 ====
 
-Download Infrasound waveform data witch get from 高知工科大学インフラサウンド観測ネットワークシステム.  
+Download Infrasound waveform data witch get from 高知工科大学インフラサウンド観測ネットワークシステム with webscrayping and how to preprocess raw data.
 And resampling and linear interpolation for trainig set and test set.
 
 Flow
@@ -20,6 +20,7 @@ ex, Sakurazima_Ontake_Higashikorimoto_20181114_0043_24point2Pa
 `$ bash preprocessing_one_eruption.sh`
 
 version  
+====
 20200313 v0.5  
 Add README.md
 

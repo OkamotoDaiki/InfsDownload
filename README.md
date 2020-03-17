@@ -18,19 +18,3 @@ ex, Sakurazima_Ontake_Higashikorimoto_20181114_0043_24point2Pa
 `$ bash download.sh`
 4. Run as follow because of preprocess row data in raw_data directory.  
 `$ bash preprocessing_one_eruption.sh`
-
-version  
-====
-20200313 v0.5  
-Add README.md
-
-(forget) v0.4  
-Became possible to run multi script at once with shell-script.  
-Execution command
-`$ bash preprocessing_one_eruption.sh`
-
-20191117 v0.3
-If user forget processing 4., tell error.
-
-
-

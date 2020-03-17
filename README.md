@@ -18,3 +18,8 @@ ex, Sakurazima_Ontake_Higashikorimoto_20181114_0043_24point2Pa
 `$ bash download.sh`
 4. Run as follow because of preprocess row data in raw_data directory.  
 `$ bash preprocessing_one_eruption.sh`
+
+Requirement
+====
+Python 3.6.5  
+numpy 1.14.3, matplotlib 2.2.2, pandas 0.23.0
